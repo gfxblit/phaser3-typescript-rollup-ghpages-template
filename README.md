@@ -1,4 +1,4 @@
-# Phaser 3 TypeScript Project Template
+# Phaser 3 TypeScript GitHub Pages Project Template
 
 This quick-start project template combines Phaser 3.60 with [TypeScript 5](https://www.typescriptlang.org/) and uses [Rollup](https://rollupjs.org) for bundling. It adds a gh-pages npm run script that pushes `dist/` directory to Github pages. This is a fork of https://github.com/photonstorm/phaser3-typescript-project-template.
 
